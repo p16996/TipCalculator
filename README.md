@@ -1,6 +1,7 @@
 # TipCalculator
 Tip calculator is a basic android application in which where you can calculate the total bill amount including the tip based on the service ratings.
 
+
 # Screenshots
 
 ![capture1](https://user-images.githubusercontent.com/22431752/30252035-044bf458-9689-11e7-960e-829ba8ff9441.PNG)
